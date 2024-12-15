@@ -1,6 +1,5 @@
 /* Balance of Payment Analysis for five (5) European Countries
-Created by Group 1, InternPulse
-December 9th, 2024*/
+December 15th, 2024*/
 
 -- Checking for Duplicates (Albania)
 
