@@ -19,7 +19,7 @@ This project provides a comprehensive analysis of the Balance of Payments and th
 ### Data Extraction
 - The developers extracted the Balance of Payment dataset from the [IMF Website](https://data.imf.org/regular.aspx?key=62805740) using Google Sheets 
 ### Data Transformation:
-- Transposed the original dataset for better usability.
+- The original dataset was transformed for better usability.
 - Checked for duplicates and standardized the data using SQL.
 ### Data Modeling:
 - Established relationships between tables to ensure seamless analysis.
